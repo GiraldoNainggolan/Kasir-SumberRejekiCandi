@@ -18,34 +18,34 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/graphs/contributors">
+  <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/GiraldoNainggolan/Real-Estate_WP" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/GiraldoNainggolan/Real-Estate_WP" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/GiraldoNainggolan/Kasir-SumberRejekiCandi" alt="last update" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/network/members">
-    <img src="https://img.shields.io/github/forks/GiraldoNainggolan/Real-Estate_WP" alt="forks" />
+  <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/network/members">
+    <img src="https://img.shields.io/github/forks/GiraldoNainggolan/Kasir-SumberRejekiCandi" alt="forks" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/stargazers">
-    <img src="https://img.shields.io/github/stars/GiraldoNainggolan/Real-Estate_WP" alt="stars" />
+  <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/stargazers">
+    <img src="https://img.shields.io/github/stars/GiraldoNainggolan/Kasir-SumberRejekiCandi" alt="stars" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/issues/">
-    <img src="https://img.shields.io/github/issues/GiraldoNainggolan/Real-Estate_WP" alt="open issues" />
+  <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/issues/">
+    <img src="https://img.shields.io/github/issues/GiraldoNainggolan/Kasir-SumberRejekiCandi" alt="open issues" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/GiraldoNainggolan/Real-Estate_WP.svg" alt="license" />
+  <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/GiraldoNainggolan/Kasir-SumberRejekiCandi.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP">View Demo</a>
+    <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP">Documentation</a>
+    <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/issues/">Report Bug</a>
+    <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/issues/">Request Feature</a>
+    <a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -177,12 +177,6 @@ To run tests, run the following command
   cd C:/xampp/htdocs/myproject
 ```
 
-```bash
-username dan password
-Username: presiden
-Password: 123
-```
-
 <!-- Run Locally -->
 
 ### :running: Run Locally
@@ -190,7 +184,13 @@ Password: 123
 Clone the project
 
 ```bash
-  git clone https://github.com/GiraldoNainggolan/Real-Estate_WP.git
+  git clone https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi.git
+```
+
+```bash
+username dan password
+Username: presiden
+Password: 123
 ```
 
 <!-- Roadmap -->
@@ -204,7 +204,7 @@ Clone the project
 
 ## :wave: Contributing
 
-<a href="https://github.com/GiraldoNainggolan/Real-Estate_WP/graphs/contributors">
+<a href="https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
@@ -216,7 +216,7 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/blob/main/readme.md)
 
 <!-- FAQ -->
 
@@ -242,7 +242,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@twitter_handle](https://x.com/GolanUwaDo) - giraldonainggolan@gmail.com
 
-Project Link: [https://github.com/GiraldoNainggolan/Real-Estate_WP](https://github.com/GiraldoNainggolan/Real-Estate_WP?tab=readme-ov-file)
+Project Link: [https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi](https://github.com/GiraldoNainggolan/Kasir-SumberRejekiCandi/tree/main)
 
 <!-- Acknowledgments -->
 
